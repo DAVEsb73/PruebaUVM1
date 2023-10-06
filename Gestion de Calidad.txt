@@ -1,0 +1,26 @@
+	1.- ¿En qué consiste el Total Quality Management (TQM)?
+El TQM o Gestión de la Calidad Total ayuda a la gestión de un sistema u organización para conseguir el máximo de eficiencia y flexibilidad en todos los recursos enfocándolo hacia la obtención de los objetivos determinados en un plazo corto o medio.
+El compromiso a largo plazo de tener la mejora continua de la calidad, en toda la organización y con la participación de los miembros de todos los niveles para cumplir y exceder las expectativas de los clientes.
+2.- ¿Cuáles son los principios de Gestión de Calidad y su importancia?
+a)	Enfoque en el cliente. 
+b)	Liderazgo proactivo: dirección con base a los datos, anticipar posibles problemas y proponer soluciones.
+c)	Compromiso de las personas: Involucramiento del personal en la toma de decisiones.
+d)	Gestión por proceso: visión completa en aras de identificar cuellos de botella y puntos de mejora.
+e)	Mejora Continua: optimización de procesos (nuevas tecnologías, capacitación). 
+f)	Decisión basada en hechos: decisiones basadas en datos sólidos y hechos. 
+g)	Relaciones: Cuidar la relación con socios, empleados y proveedores.
+Su importancia es proporcionar un análisis sistemático que permite identificar área de mejora, de tal manera que va a optimizar y a estandarizar procesos, establece un vinculo con el cliente, crea valor para el consumidor, genera lealtad y mejora el funcionamiento en conjunto.
+
+3.- ¿En qué consiste Seis Sigma y su importancia en un sistema de gestión de Calidad?
+Es básicamente un sistema muy enfocado a la resolución de problemas. La meta de Seis Sigma es alcanzar, en el largo plazo, un nivel de 3.4 defectos por cada millón de oportunidades.
+Busca la mejora de la rentabilidad mediante la optimización de la calidad y la eficiencia. Los proyectos de mejora se eligen con base en su capacidad de contribuir a las utilidades de compañía mediante una sincronización con las metas y objetivos estratégicos.
+El concepto Seis Sigma fue concebido por Bill Smith.
+Otra manera de definir a Seis Sigma es como un programa de gestión centrado en la mejora y en la reducción de costos, cuyo objetivo es optimizar la producción de la empresa.
+Su importancia radica en que estandariza los procesos reduciendo la variabilidad, aumenta la calidad de los productos y servicios que llegan al consumidor final, reduciendo los fallos y, en consecuencia los costos del proceso en su conjunto.
+Etapas: Definir, Medir, Análisis, Mejora y Control (DMAIC por sus siglas en ingles).
+
+
+Referencias:
+Zambelli R. (21 de junio de 2022) Gestión de la calidad: qué es, cómo se hace, normas y principios, [checklistfácilblog] Recuperado de https://blog-es.checklistfacil.com/gestion-de-calidad/
+Summers, D. (2006). Administración de la calidad [Archivo PDF]. Recuperado de https://fliphtml5.com/aitym/zrjg/basic
+López, L. (29 octubre 2014). Gestión de la Calidad Total (T.Q.M) [Archivo de video]. Recuperado de https://www.youtube.com/watch?v=ZwPq5uh1cFs
